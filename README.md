@@ -65,7 +65,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://github.com/ishrathnayeem"><img src="https://img.shields.io/badge/-Website-00A5E9?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCSNzFQ5TLzJgaMkH6l-mflA"><img src="https://img.shields.io/badge/-Youtube-00A5E9?style=flat&logo=youtube&logoColor=white"/></a>
 <a href="mailto:ishrathnayeem1@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="www.linkedin.com/in/ishrathnayeem"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/ishrathnayeem"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
