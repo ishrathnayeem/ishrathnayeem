@@ -23,7 +23,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Mulesoft](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=mulesoft)&nbsp;
+![Mulesoft](https://img.shields.io/badge/-Mulesoft-05122A?style=flat&logo=mulesoft)&nbsp;
 ![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
