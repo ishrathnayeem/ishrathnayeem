@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Mulesoft+Developer;Salesforce+Administrator;Traveller,+Youtuber" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+++++Software+Development+Engineer;++++++++++Mulesoft+Developer;++++++++++Salesforce+Administrator;++++++++++Traveller,+Youtuber,+Landscaper" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishrathnayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ishrathnayeem" /> </p>
