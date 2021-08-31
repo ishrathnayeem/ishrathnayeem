@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Mulesoft+Developer,+Salesforce+Admin;Graphic+Designer+,+Youtuber+and+Social+Media+Influencer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Mulesoft+Developer;Salesforce+Administrator;Traveller,+Youtuber" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishrathnayeem&label=Profile%20views&color=0e75b6&style=flat" alt="ishrathnayeem" /> </p>
@@ -28,17 +28,17 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFA518)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=flat&logo=audacity)&nbsp;
